@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap");
+body {
+	font-family: "Lato", sans-serif;
+}
+.job-title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}
+.info {
+}
+.info-image {
+}
+.info-text1 {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	color: #1e212c;
+}
+.info-text2,
+.info-text3 {
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+}
+.info-text4 {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	color: #1e212c;
+}
+.info-text5 {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.info-list {
+	font-size: 16px;
+	line-height: 1.6;
+	color: #424551;
+	text-indent: 40px;
+}
+.info-text6 {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.basement {
+	font-size: 40px;
+	color: rgb(255, 0, 64);
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 10px 10px 20px rgb(221, 4, 4), -10px -10px 20px rgb(10, 3, 3);
+}
